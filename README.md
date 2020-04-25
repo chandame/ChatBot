@@ -1,4 +1,4 @@
-# myChatBot
+# mychatbot
 
 ## Install Project
 
