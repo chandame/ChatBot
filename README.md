@@ -15,4 +15,6 @@ python manager.py runserver
 ``` 
 
 * Once you have it running type message into textbox and it will return a message.
+* Sticky ChatBot UI can be intigrated to any web portal.
+
 
